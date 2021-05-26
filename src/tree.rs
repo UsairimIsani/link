@@ -1,5 +1,4 @@
 //! Tree Data Structure with Weak and is Thread Safe using RwLock
-use std::borrow::BorrowMut;
 use std::sync::{Arc, RwLock, Weak};
 /// # Node is Thread Safe Tree
 /// Hello World of chicken kebab
